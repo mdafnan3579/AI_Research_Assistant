@@ -1,5 +1,7 @@
-# Welcome to Ai research assistant project
 
+
+Welcome to Ai research assistant project
+This app is designed for consulting, private equity, and research teams who need a fast, reliable, and AI-powered transcription & insights tool.
 
 Follow these steps to get this project:
 
